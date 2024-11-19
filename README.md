@@ -1,4 +1,4 @@
-### Orixa
+### Flight SEarch APP
 
 Flight Finder
 
