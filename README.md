@@ -1,4 +1,4 @@
-### Flight SEarch APP
+### Flight Search APP
 
 Flight Finder
 
